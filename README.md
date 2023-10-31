@@ -11,3 +11,6 @@ Se implemento comunicacion LoRa para poder comandorlo desde un servidor en tierr
 Se implemento la utilizacion de Node-RED para realizar un dashboard, desde el cual se pueda mandar diferentes coordenadas al vehiculo, asi como observar su posicion en tiempo real. 
 
 Para mas informacion leer el informe adjunto. Muchas gracias
+
+
+Si quieren los codigos realizados, envieme un mensaje.
